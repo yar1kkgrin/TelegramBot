@@ -1,0 +1,20 @@
+
+`	java:S112<"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112@"FDefine and throw a dedicated exception instead of using a generic one.(üò±ºüÿÿÿÿ
+\	java:S112‘"FDefine and throw a dedicated exception instead of using a generic one.(çîĞŠ
+a	java:S112›"FDefine and throw a dedicated exception instead of using a generic one.(»ºˆùÿÿÿÿ
+a	java:S112¤"FDefine and throw a dedicated exception instead of using a generic one.(” à­ùÿÿÿÿ
+a	java:S112¬"FDefine and throw a dedicated exception instead of using a generic one.(Ã»²‚øÿÿÿÿ
+a	java:S112µ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112½"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+u
+java:S2293¥"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸ÓèÃúÿÿÿÿ
+<
+java:S5164%"!Call "remove()" on "updateEvent".(ªÄ¦÷øÿÿÿÿ
+`
+java:S18742"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(®É–Ø
+_	java:S119±"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Úƒ˜Ç
+z
+java:S1128"dRemove this unused import 'org.telegram.telegrambots.meta.api.methods.reactions.SetMessageReaction'.(Í¨‡ò
+Š
+java:S1128"uRemove this unused import 'org.telegram.telegrambots.meta.api.objects.commands.scope.BotCommandScopeAllPrivateChats'.(–÷Z

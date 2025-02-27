@@ -1,0 +1,36 @@
+
+o
+java:S1192t"RDefine a constant instead of duplicating this literal "ĞŸĞ¾Ñ‡ĞµĞºĞ°Ğ¹..." 4 times.(şéı8¤¹Š¶Ô2
+e
+java:S1192X"HDefine a constant instead of duplicating this literal "profile" 3 times.(şıßî8Èª¢¶Ô2
+i
+java:S1192e"GDefine a constant instead of duplicating this literal "opener" 3 times.(¦óêÔüÿÿÿÿ8Èª¢¶Ô2
+r
+java:S1104"PMake mode a static final constant or non-public and provide accessors if needed.(ÓİÍ¿øÿÿÿÿ8¥¹Š¶Ô2
+x
+java:S1104"VMake gptService a static final constant or non-public and provide accessors if needed.(ÁÕ™üÿÿÿÿ8¥¹Š¶Ô2
+C	java:S131"""Add a default case to this switch.(Ö‘ò°úÿÿÿÿ8Æ¹Š¶Ô2
+z	java:S131q"YComplete cases by adding the missing enum constants or add a default case to this switch.(©Øûºûÿÿÿÿ8È¹Š¶Ô2
+9
+java:S3626®"Remove this redundant jump.(ûÁİ…8Ê¹Š¶Ô2
+9
+java:S3626µ"Remove this redundant jump.(ûÁİ…8Ê¹Š¶Ô2
+9
+java:S3626¼"Remove this redundant jump.(ûÁİ…8Ê¹Š¶Ô2
+9
+java:S3626Ã"Remove this redundant jump.(ûÁİ…8Ê¹Š¶Ô2
+9
+java:S3626Ê"Remove this redundant jump.(ûÁİ…8Ê¹Š¶Ô2
+9
+java:S3626Õ"Remove this redundant jump.(ûÁİ…8Ê¹Š¶Ô2
+?	java:S131¨""Add a default case to this switch.(’ÙÚÃ8Ì¹Š¶Ô2
+p
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(™¯¤e8åª¢¶Ô2
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(¬Á¦òùÿÿÿÿ8åª¢¶Ô2
+q
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ºïš8åª¢¶Ô2
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(×¶ÏÀüÿÿÿÿ8åª¢¶Ô2
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8åª¢¶Ô2
